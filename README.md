@@ -1,6 +1,5 @@
 ## Hello Hello! 👋 
 
-<!--
 **Ally-Kay411/Ally-Kay411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -10,5 +9,4 @@
 - 💬 I'm interested in boiling down complex ideas and data into manageable thoughts
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... I'll let you know when I think of one!
--->
 
